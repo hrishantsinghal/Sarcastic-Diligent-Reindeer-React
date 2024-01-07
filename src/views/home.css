@@ -62,13 +62,6 @@
 .home-nav2:hover {
   color: #3d6e70ff;
 }
-.home-buttons {
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: space-between;
-}
 .home-burger-menu {
   display: none;
 }
@@ -135,7 +128,7 @@
   margin-bottom: var(--dl-space-space-unit);
   text-decoration: none;
 }
-.home-buttons1 {
+.home-buttons {
   border: 2px dashed rgba(120, 120, 120, 0.4);
   display: flex;
   margin-top: var(--dl-space-space-unit);

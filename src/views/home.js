@@ -23,7 +23,6 @@ const Home = (props) => {
                 Careers
               </Link>
             </nav>
-            <div className="home-buttons"></div>
           </div>
           <div data-thq="thq-burger-menu" className="home-burger-menu">
             <svg viewBox="0 0 1024 1024" className="home-icon">
@@ -48,7 +47,7 @@ const Home = (props) => {
                   Careers
                 </Link>
               </nav>
-              <div className="home-buttons1"></div>
+              <div className="home-buttons"></div>
             </div>
             <div>
               <svg viewBox="0 0 950.8571428571428 1024" className="home-icon04">
