@@ -19,7 +19,7 @@ const Home = (props) => {
           <div data-thq="thq-navbar-nav" className="home-desktop-menu">
             <nav className="home-links">
               <Link to="/">About</Link>
-              <Link to="/apply-to-job" className="home-nav2">
+              <Link to="/careers" className="home-nav2">
                 Careers
               </Link>
             </nav>
@@ -43,7 +43,7 @@ const Home = (props) => {
                 <Link to="/" className="home-nav11">
                   About
                 </Link>
-                <Link to="/apply-to-job" className="home-nav21">
+                <Link to="/careers" className="home-nav21">
                   Careers
                 </Link>
               </nav>
@@ -150,7 +150,7 @@ const Home = (props) => {
             <span className="home-logo2">Bihar Job Connect</span>
             <nav className="home-nav1 home-nav1">
               <span className="home-nav12">About</span>
-              <Link to="/apply-to-job" className="home-nav22">
+              <Link to="/careers" className="home-nav22">
                 Careers
               </Link>
             </nav>
